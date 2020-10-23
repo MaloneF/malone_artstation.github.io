@@ -13,7 +13,7 @@ timezone: Asia/shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://malonef.github.io/malone-artstation.github.io/
+url: https://malonef.github.io/malone_artstation.github.io/
 root: /malone_artstation.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:

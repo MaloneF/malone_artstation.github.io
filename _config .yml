@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ´óÄ¢¹½µÄ²©¿Í
-subtitle: ´óÄ¢¹½µÄÑ§Ï°±Ê¼Ç
-description: ¼¼Êõ²©¿Í java python springboot Android
+title: å¤§è˜‘è‡çš„åšå®¢
+subtitle: å¤§è˜‘è‡çš„å­¦ä¹ ç¬”è®°
+description: æŠ€æœ¯åšå®¢ java python springboot Android
 keywords:
 author: malone
 language: zh-CN
@@ -98,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: hexo-theme-miho
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
